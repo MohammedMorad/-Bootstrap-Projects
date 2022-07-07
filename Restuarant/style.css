@@ -1,0 +1,90 @@
+.navbar{
+text-transform: uppercase;
+transition: all 0.4s;
+}
+.nav-link:hover{
+    border-bottom: 2px solid green;
+    padding: 30px;
+    transition: all 0.4s;
+}
+.navbar-brand {
+    text-transform: uppercase; 
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+}
+nav{
+    box-shadow: 2px -2px 0px 5px rgb(0, 0, 0,0.255) ;
+}
+.img-slide-show {
+    min-height: 700px;
+    max-height: 700px;
+    }
+    #home {
+        width: 46px;
+        height: 44px;
+        background: url(img_navsprites.gif) 0 0;
+    }
+#head1{
+    font-size: 65px;
+    color: white;
+    font-family:Arima;
+    margin-top: 5em;
+}
+.home{
+background-image: url(https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9);
+background-size: cover;
+height: 1021px;
+color: white;
+background-attachment: fixed;
+
+}
+#header {
+    padding-top: 20em;
+}
+#btn {
+    font-size: 25px;
+    margin-top: 3rem;
+}
+.line{
+    margin-top: 5rem;
+}
+.insidenavbar:hover{
+border-bottom: 2px solid lightgreen;
+}
+.menu {
+    background-color: rgb(235, 235, 235);
+}
+.img-menu {
+    height: 15rem;
+    width: 15rem;
+}
+.card-title {
+    font-size: 25px;
+}
+.card-text {
+    font-size: 24px
+    ;
+}
+.card {
+    transition: all .5s;
+}
+.card:hover {
+    transition: all .5s;
+    box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.212);
+}
+.img-slide-show {
+    min-height: 700px;
+    max-height: 700px;
+    }
+ #reservaiton {
+        font-size: 25px;
+        
+    }
+    .news{
+        background-color: rgb(235, 235, 235);
+        height:85vh ;
+    }
+    .card-img1 {
+        min-height: 300px ;
+        max-height: 300px ;
+       }
